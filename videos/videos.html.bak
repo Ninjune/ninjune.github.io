@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" standardized-themed-scrollbar>
+<head>
+<title style="font-family: Helvetica;">template</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="name">
+<meta property="og:title" content="what happens when I'm not against masters players:">
+<meta property="og:description" content="test">
+<meta property="og:image" content="">
+<link rel=stylesheet href='./style.css'>
+</head>
+<body>
+<nav class="navigation">
+<ul>
+<li><a href="../index.html">Home</a></li>
+<li><a href="../about/about.html">About</a></li>
+<li><a href="../videos/videos.html">Videos</a></li>
+<div class="searchBox">
+<li><input class="search" aria-label="Search" placeholder="Search" type="text" name="search" title="search" autocomplete="off"></li>
+</div>
+</ul>
+</nav>
+<h1>what happens when I'm not against masters players:</h1>
+<div class="video1">
+<video width="1600" height="900" controls>
+<source src="flow.mp4" type="video/mp4">
+</video>
+</div>
+<div class="main">
+<p>The reason I can't upload this on youtube:</p>
+<image src="unknown.png" width=600 height=400>
+</div>
+</body>
