@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" standardized-themed-scrollbar>
 <head>
-<title style="font-family: Helvetica;">template</title>
-<meta property="og:type" content="video.other">
-<meta property="og:site_name" content="name">
-<meta property="og:title" content="what happens when I'm not against masters players:">
-<meta property="og:description" content="test">
-<meta property="og:video" content="https://ninjune.github.io/videos/flow.mp4">
+
+<title style="font-family: Helvetica;">Videos | Nin</title>
+
+<meta property="og:type" content="image" />
+<meta property="og:site_name" content="Nin's Website" />
+<meta property="og:title" content="Videos" />
+<meta property="og:description" content="this is my website, it's good; trust." />
+<meta property="og:image" content="https://ninjune.github.io/nin.jpg" />
+
 <link rel=stylesheet href='./style.css'>
+<link rel="icon" type="image/x-icon" href="../favicon.ico">
+
 </head>
 <body>
 <nav class="navigation">
@@ -20,14 +25,16 @@
 </div>
 </ul>
 </nav>
-<h1>what happens when I'm not against masters players:</h1>
-<div class="video1">
-<video width="1600" height="900" controls>
-<source src="flow.mp4" type="video/mp4">
-</video>
+<h1>Videos (that aren't able to be uploaded to youtube or are too low effort)</h1>
+<div class="videos">
+
+<p><a href="flow/flow.html"><img src="flow/thumbnail.png"><br/>what happens when I'm not against masters players (Apex)</img></a></p>
+<p><a href="keyboard-sounds/keyboard-sounds.html"><img src="keyboard-sounds/thumbnail.png"></img><br/>keyboard sounds</a></p>
+<p><a href="suburu-kyun/suburu-kyun.html"><img src="suburu-kyun/thumbnail.png"></img><br/>nyhah! suburu-kyun! nyahhaha!</a></p>
+
 </div>
 <div class="main">
-<p>The reason I can't upload this on youtube:</p>
+<p>The reason I can't upload these on youtube:</p>
 <image src="unknown.png">
 </div>
 </body>

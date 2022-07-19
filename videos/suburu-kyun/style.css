@@ -48,52 +48,11 @@ color: red;
 .search placeholder {
 	
 }
-.videos {
-	min-width: 1600px;
-    max-width: 1600px;
-	margin: 20px auto;
-    font-size: 18px;
-	color: #E2E2E2;
-	text-align: left;
-	
-}
-
-.videos p {
-	max-width: 18%;
-	padding-right: 34px;
-	margin-right: 40px;
-	display: inline-block;
-	white-space: nowrap;
-	text-align: left;
-	overflow: hidden;
-	text-overflow: ellipsis;
-}
-.videos img {
-	width: 320px; 
-	height: 180px;
-	text-align: left;
-	white-space: normal;
-	overflow: visible;
-	text-overflow: unset;
-}
-.videos a {
-	margin: 0px 20px;
-	padding: 20px;
-	text-align: center;
-}
-.videos a:link {
-	color: #E2E2E2;
-	text-decoration: none;
-}
-.videos a:visited {
-	color: #E2E2E2;
-	text-decoration: none;
-}
 .main {
     font-family: 'Times New Roman', serif;
     min-width: 1200px;
     max-width: 1200px;
-    margin: 0px auto;
+    margin: 0 auto;
     font-size: 18px;
 	color: #E2E2E2;
 }
