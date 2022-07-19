@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title style="font-family: Helvetica;">(Site name)</title>
+
+<title style="font-family: Helvetica;">About | Nin</title>
+
+<meta property="og:type" content="image" />
+<meta property="og:site_name" content="Nin's Website" />
+<meta property="og:title" content="About" />
+<meta property="og:description" content="this is my website, it's good; trust." />
+<meta property="og:image" content="https://ninjune.github.io/nin.jpg" />
+
 <link rel=stylesheet href='./style.css'>
+<link rel="icon" type="image/x-icon" href="../favicon.ico">
+
 </head>
 <body>
 <nav class="navigation">
 <ul>
-<li><a href="../index/index.html">Home</a></li>
+<li><a href="../index.html">Home</a></li>
 <li><a href="../about/about.html">About</a></li>
 <li><a href="../videos/videos.html">Videos</a></li>
 <div class="searchBox">
@@ -16,26 +26,31 @@
 </ul>
 </nav>
 <div class="main">
-<h1>Title</h1>
+<h1>About</h1>
 <p>
 <div class="para1">
-   WIP
+   Hi I'm Nin, I make videos and stuff, for example this website. 
+   
 </div>
 <br />
 <div class="para2">
-    Phasellus ac sodales nisl, ut efficitur eros. Nunc convallis feugiat dui, ut imperdiet est hendrerit in. Vivamus tempor, metus sed maximus tempus, ligula lorem sodales dolor, auctor fermentum purus lectus eu arcu. Cras sed laoreet sapien, non tincidunt ex. Aenean vulputate maximus pretium. In sed nisi tincidunt, mollis felis sit amet, fringilla elit. Suspendisse aliquam mi orci, in convallis lorem posuere a. Fusce et lacus vel elit bibendum consequat. Nunc a fermentum nulla. Mauris sed sem tellus. Curabitur facilisis nulla et tellus mattis, at condimentum justo ornare. Morbi mi justo, varius condimentum feugiat eget, cursus at magna. Morbi facilisis pretium blandit.
+   <p>My socials:</br></br>
+   <a href="https://www.youtube.com/channel/UCHbj_69RTxARJ0zJrYWAw_Q" target="_blank">Ninjune1</br><image src="yt.png" width="70" height="55"></a>
+   <a href="https://www.twitch.tv/ninjune1" target="_blank">Ninjune1</br><image src="twitch.png" width="55" height="55"></a>
+    Ninjune#0670
+   </p>
 </div>
 <br />
 <div class="para3">
-    Cras mattis semper purus, eu dapibus nibh vestibulum non. Donec nulla leo, rutrum ac ipsum ut, aliquet pharetra ipsum. Donec pulvinar, turpis et fermentum fringilla, ipsum magna ultricies eros, non efficitur libero dolor ut libero. Morbi vel mauris ac purus ornare facilisis vitae eget sapien. Nulla non velit nunc. Aliquam mattis iaculis dui, et malesuada purus vehicula at. Integer sed aliquet metus. Sed quis pharetra nisi. Suspendisse dolor nulla, aliquam viverra varius et, maximus eget massa. Aliquam erat volutpat.
+    
 </div>
 <br />
 <div class="para4">
-    Quisque a consequat orci. Cras eget sem eget odio varius fermentum id eget felis. Integer tempor vitae mi nec hendrerit. Vivamus id vehicula leo. Aenean suscipit tellus purus, sit amet commodo enim fermentum ut. Donec bibendum, sem eget hendrerit fringilla, sem turpis fermentum nunc, nec pharetra turpis enim in lectus. Cras et elit a mi viverra semper. Phasellus a augue eget augue egestas scelerisque. Aenean pulvinar iaculis orci in semper. Nulla posuere metus turpis, vitae lobortis justo rhoncus in. Nullam a felis eget ipsum dictum condimentum id a eros. Duis ac pretium ante. Duis at tempor nulla. Aenean tempus, turpis sed gravida ultrices, turpis justo porttitor metus, id efficitur tellus diam et nibh.
+    
 </div>
 <br />
 <div class="para5">
-    Proin vel augue ut odio congue cursus. Etiam quis dictum dui. Pellentesque id nisi et tellus pharetra ullamcorper. Donec sit amet justo quis mauris gravida facilisis sit amet quis leo. Aliquam eu nulla est. Aenean sit amet rutrum erat. Donec interdum turpis sed elit convallis pellentesque. Etiam varius risus id libero accumsan, at vestibulum tortor rutrum. Curabitur vitae congue lectus. Praesent libero diam, ultrices et volutpat nec, mattis non dolor.
+    
 </div>
 </p>
 </div>

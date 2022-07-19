@@ -10,19 +10,8 @@ margin: 0px;
 background-color: #212121;
 }
 .para1 {
-color: #E2E2E2;
+color: red;
 }
-.para2 a {
-	display: inline-block;
-	padding-right: 20px;
-}
-.para2 a:link {
-	color: #E2E2E2;
-	text-decoration: none;
-}
-.para2 a:visited {
-	color: #E2E2E2;
-	text-decoration: none;
 .navigation ul {
     margin: 0px;
     height: 64px;
