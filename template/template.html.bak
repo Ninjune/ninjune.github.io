@@ -4,11 +4,11 @@
 
 <title style="font-family: Helvetica;"> | Nin</title>
 
-<meta property="og:type" content="image">
-<meta property="og:site_name" content="Nin's Website">
-<meta property="og:title" content="">
-<meta property="og:description" content="this is my website, it's good; trust.">
-<meta property="og:image" content="https://ninjune.github.io/nin.jpg">
+<meta property="og:type" content="image" />
+<meta property="og:site_name" content="Nin's Website" />
+<meta property="og:title" content="" />
+<meta property="og:description" content="this is my website, it's good; trust." />
+<meta property="og:image" content="https://github.com/Ninjune/ninjune.github.io/blob/main/nin.jpg?raw=true" />
 
 <link rel=stylesheet href='./style.css'>
 <link rel="icon" type="image/x-icon" href="../favicon.ico">
